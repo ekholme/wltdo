@@ -6,5 +6,5 @@
 #' @return
 #' @export
 release_dogs <- function() {
-  browseURL("https://www.youtube.com/watch?v=5St2O-9cTx8")
+  utils::browseURL("https://www.youtube.com/watch?v=5St2O-9cTx8")
 }

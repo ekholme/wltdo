@@ -6,8 +6,8 @@ Authors@R:
            family = "Ekholm",
            role = c("aut", "cre"),
            email = "eric.ekholm@gmail.com")
-Description: Open "Who Let the Dogs Out" by Baha Men in your browser
-License: use_mit_license()
+Description: Open "Who Let the Dogs Out" by Baha Men in your browser.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/ekholme/wltdo
