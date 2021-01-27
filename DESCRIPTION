@@ -1,0 +1,16 @@
+Package: wltdo
+Title: Let the dogs out!
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Eric",
+           family = "Ekholm",
+           role = c("aut", "cre"),
+           email = "eric.ekholm@gmail.com")
+Description: Open "Who Let the Dogs Out" by Baha Men in your browser
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/ekholme/wltdo
+BugReports: https://github.com/ekholme/wltdo/issues
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
